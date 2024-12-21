@@ -10,6 +10,7 @@ These are projects I work on and maintain!
 
 - [BDK Language Bindings](https://github.com/bitcoindevkit/bdk-ffi) for Android + iOS — Build mobile wallets with BDK
 - [Padawan Wallet](https://padawanwallet.com) — Learn about bitcoin using testnet!
-- [Opcode Explained](https://opcodeexplained.com) — Documenting bitcoin opcodes, one at a time
+- [opcodeexplained.com](https://opcodeexplained.com) — Documenting bitcoin opcodes, one at a time
 - [bitcoinconferences.info](https://bitcoinconferences.info) — A simple list of upcoming bitcoin conferences worldwide
 - [Devkit Wallet](https://github.com/bitcoindevkit/bdk-kotlin-example-wallet) — The sample app for BDK on Android
+- [Book of BDK](https://bookofbdk.com/) — The high-level docs website for BDK
